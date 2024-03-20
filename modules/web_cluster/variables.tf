@@ -1,0 +1,14 @@
+variable "Project_Name" {}
+variable "default_region" {}
+variable "secondary_region" {}
+variable "r53_zone_id" {}
+variable "acm_cert_arn" {}
+variable "vpc_id" {}
+variable "public_subnets" {}
+variable "private_subnets" {}
+variable "azs" {}
+variable "Terraform_Base_Path" {}
+variable "Service_Name" {}
+variable "Owning_Team" {}
+variable "Automation" {}
+variable "web_ssh_key" {}
